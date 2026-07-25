@@ -15,7 +15,7 @@
 - 🔭 **Currently working on:** Enterprise management applications and web systems.
 - 🌱 **Currently learning:** Advanced full-stack architecture & cloud deployments.
 - 💬 **Ask me about:** Software,Data Analyst, database design, and system architecture.
-- 📫 **How to reach me:** [Email Me](mailto:amoahisaac068@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 **How to reach me:** [Email Me](mailto:amoahisaac068@gmail.com) | [LinkedIn](www.linkedin.com/in/amoah-isaac-483a0535a)
 
 ---
 

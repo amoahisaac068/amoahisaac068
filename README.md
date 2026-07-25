@@ -8,7 +8,7 @@
 # Hi there, I'm Isaac Kwame Amoah 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Software+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Data Analyst;Full-Stack+Developer;A programmer" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
